@@ -1,0 +1,9 @@
+numpy==1.26.0
+av==10.0.0
+transformers==4.51.3
+pytorchvideo==0.1.5
+evaluate==0.4.3
+huggingface_hub==0.31.1
+torch==2.1.2 --extra-index-url https://download.pytorch.org/whl/cu121
+torchaudio==2.1.2 --extra-index-url https://download.pytorch.org/whl/cu121
+torchvision==0.16.2 --extra-index-url https://download.pytorch.org/whl/cu121
